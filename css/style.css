@@ -1,0 +1,95 @@
+
+h2 {
+  color: #66BFBF;
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  color: black;
+
+}
+
+
+/* main container */
+h4 {
+  color: #66BFBF;
+}
+.main-conatiner {
+  background-color:  #EAF6F6;
+  padding: 4% 15%
+}
+.brand-img {
+  height: 100px;
+  width: 200px;
+  margin-left: 40%;
+}
+
+
+/* Carousal img1 */
+.carr-1 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 30%;
+  top : 20%;
+  border-radius: 100%;
+}
+.carousel-control-prev-icon {
+  height: 50px;
+      width: 50px;
+        outline: #66BFBF;
+        background-size: 100%, 100%;
+  /* outline: white;
+      background-color: #66BFBF ; */
+}
+.carousel-control-next-icon {
+  height: 50px;
+      width: 50px;
+        outline: #66BFBF;
+        background-size: 100%, 100%;
+}
+
+
+/* Features Section */
+
+#features {
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #66BFBF;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #EAF6F6;
+}
+
+/* footer */
+
+.container-fluid-f {
+  text-align: center;
+  background-color: #EAF6F6;
+  padding: 4% 15% ;
+}
+.social-icon {
+  margin: 20px 10px;
+}
